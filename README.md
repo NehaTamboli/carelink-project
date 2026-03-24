@@ -53,7 +53,7 @@ CI/CD Automation : GitHub Actions or Jenkins automatically builds, tests, and de
 Scalable Architecture : Kubernetes enables automatic scaling and management of containers.
 
 Version Controlled Infrastructure : Infrastructure configuration is stored in Git, allowing easy tracking of changes.
-
+CI/CD Test Update
 ---
 ## Group Members
 | Name             | Enrollment No |
